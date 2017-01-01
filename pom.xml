@@ -146,7 +146,7 @@
                 <version>${jetty.version}</version>
                 <configuration>
                     <httpConnector>
-                        <port>8080</port>
+                        <port>8090</port>
                         <host>localhost</host>
                     </httpConnector>
                     <scanIntervalSeconds>10</scanIntervalSeconds>
